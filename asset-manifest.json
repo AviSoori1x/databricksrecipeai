@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/databricksrecipeai/static/css/main.4de0fa12.css",
-    "main.js": "/databricksrecipeai/static/js/main.4a7f4f77.js",
+    "main.js": "/databricksrecipeai/static/js/main.e6646d7e.js",
     "static/js/498.26de99d1.chunk.js": "/databricksrecipeai/static/js/498.26de99d1.chunk.js",
     "static/js/703.73940452.chunk.js": "/databricksrecipeai/static/js/703.73940452.chunk.js",
     "static/js/258.bb702ca0.chunk.js": "/databricksrecipeai/static/js/258.bb702ca0.chunk.js",
@@ -9,7 +9,7 @@
     "static/media/header.png": "/databricksrecipeai/static/media/header.c24541b26dae55e16a0f.png",
     "index.html": "/databricksrecipeai/index.html",
     "main.4de0fa12.css.map": "/databricksrecipeai/static/css/main.4de0fa12.css.map",
-    "main.4a7f4f77.js.map": "/databricksrecipeai/static/js/main.4a7f4f77.js.map",
+    "main.e6646d7e.js.map": "/databricksrecipeai/static/js/main.e6646d7e.js.map",
     "498.26de99d1.chunk.js.map": "/databricksrecipeai/static/js/498.26de99d1.chunk.js.map",
     "703.73940452.chunk.js.map": "/databricksrecipeai/static/js/703.73940452.chunk.js.map",
     "258.bb702ca0.chunk.js.map": "/databricksrecipeai/static/js/258.bb702ca0.chunk.js.map",
@@ -17,6 +17,6 @@
   },
   "entrypoints": [
     "static/css/main.4de0fa12.css",
-    "static/js/main.4a7f4f77.js"
+    "static/js/main.e6646d7e.js"
   ]
 }
